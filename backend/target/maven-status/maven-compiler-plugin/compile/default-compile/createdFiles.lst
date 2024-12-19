@@ -1,0 +1,15 @@
+projet\Configurations\SwaggerConfig.class
+projet\Resultat\Resultat.class
+projet\Configurations\CorsConfig.class
+projet\controller\user\AuthenticationController.class
+projet\model\Authentication.class
+projet\Configurations\JWTManager.class
+projet\service\CustomUtilisateurService.class
+projet\repository\UtilisateurRepository.class
+projet\model\Utilisateur.class
+projet\Configurations\SecurityConfig.class
+projet\repository\RoleRepository.class
+projet\service\UtilisateurService.class
+projet\model\Role.class
+projet\DemoApplication.class
+projet\Configurations\JWTInterceptor.class
